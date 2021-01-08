@@ -57,6 +57,6 @@ if __name__ == "__main__":
         else:
             print("The given input is Invalid. It should be 'en' or 'de'")
     else:
-        print("No such file found ",fname)
+        print("No such file found -",fname)
     
  
